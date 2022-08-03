@@ -15,5 +15,5 @@ Data visualization is a key part of Dimensionality reduction. Dropping the dimen
 -	More point values will be found in clusters.
 -	Clusters will be closer together.
 -	Clusters will become increasingly overlapping.
-*In the event of distinct domains data input and word embedding, the opposite will occur.*
+- In the event of distinct domains data input and word embedding, the opposite will occur.*
 - Negative sampling is used by Word2Vec this produces cone-shaped clusters of words in the vector space, whereas GloVe's word vectors are more discrete in the space, allowing word2vec to compute quicker than GloVe.
